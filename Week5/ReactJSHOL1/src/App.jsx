@@ -1,10 +1,12 @@
+import Student from "./Student";
+
 function App() {
-  return (
-      <div>
-        <h1>Welcome to React</h1>
-        <p>My first React application</p>
-      </div>
-  );
+    return (
+        <div>
+            <h1>React Components</h1>
+            <Student />
+        </div>
+    );
 }
 
 export default App;

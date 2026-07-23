@@ -21,5 +21,6 @@ public class LibrarymanagementjpaApplication {
             repository.save(new Book(2L, "Spring", "Rod Johnson"));
             repository.save(new Book(3L, "Python", "Guido van Rossum"));
         };
+
     }
 }
