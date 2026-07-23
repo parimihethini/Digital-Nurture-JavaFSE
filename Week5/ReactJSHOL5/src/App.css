@@ -1,0 +1,13 @@
+.container{
+  text-align:center;
+  margin-top:60px;
+}
+
+button{
+  padding:10px 20px;
+  background:green;
+  color:white;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+}
