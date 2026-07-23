@@ -1,0 +1,17 @@
+.container{
+  width:70%;
+  margin:auto;
+  text-align:center;
+}
+
+.card{
+  background:white;
+  margin:20px;
+  padding:20px;
+  border-radius:8px;
+  box-shadow:0 0 8px gray;
+}
+
+h1{
+  color:#1565c0;
+}
