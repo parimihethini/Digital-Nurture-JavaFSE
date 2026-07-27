@@ -1,0 +1,22 @@
+Git Hands-On Lab 4
+
+Name: Hethini
+Week: 6
+
+Topic: Git Merge and Conflict
+
+Commands practiced:
+
+git branch
+git switch
+git merge
+git status
+
+A merge is used to combine changes from one branch
+into another branch.
+
+If the same part of a file is changed in two branches,
+Git may show a merge conflict.
+
+The conflict can be resolved by editing the file
+and committing the final changes.
