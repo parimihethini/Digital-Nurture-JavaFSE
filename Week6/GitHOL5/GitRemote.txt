@@ -1,0 +1,23 @@
+Git Hands-On Lab 5
+
+Name: Hethini
+Week: 6
+
+Topic: Git Remote Repository
+
+Commands practiced:
+
+git remote -v
+git pull
+git push
+git log --oneline
+
+A remote repository is used to store the project
+on platforms such as GitHub.
+
+git pull is used to get the latest changes.
+
+git push is used to send local commits
+to the remote repository.
+
+git log is used to check the commit history.
