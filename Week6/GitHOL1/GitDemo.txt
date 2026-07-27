@@ -1,0 +1,8 @@
+Git Hands-On Lab 1
+
+Name: Hethini
+Week: 6
+
+Learning basic Git commands.
+This exercise demonstrates Git initialization,
+adding files and committing changes.
